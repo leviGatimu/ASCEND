@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Export output
+.export/
+
+# Temporary files and logs
+*.tmp
+*.log
+
+# OS files
+.DS_Store
